@@ -14,7 +14,6 @@ Resumo Profissional
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Criminalidade em São Paulo:** https://bit.ly/2M9dM5o
 ---
