@@ -3,7 +3,7 @@
 </p>
 
 # Danielle Costa
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist* </sub>
 
 Resumo Profissional
 
